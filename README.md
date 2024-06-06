@@ -1,2 +1,2 @@
 # simulation-class
-[https://github.com/hflka/ddd.git](http://localhost:3000/simulation-class)
+[Simulaiton Site](http://localhost:3000/simulation-class)
